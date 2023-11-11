@@ -1,5 +1,5 @@
 
-
+//Estou fazendo uma alteração do codigo para teste//
 function calculadora() {
     const operacao = Number(prompt('Escolha uma operação:\n 1 - soma (+)\n 2 - subtração (-)\n 3 - multiplicação (*)\n 4 - Divisão real (/)\n 5 - Divisão inteira (%)\n 6 - Potenciação (**)'));
 
